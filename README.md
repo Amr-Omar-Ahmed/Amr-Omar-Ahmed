@@ -3,9 +3,9 @@
 - 🌱 I'm currently learning docker, kubernetes
 - 💞️ I’m looking to collaborate on with great people! :) 
 - 📫 How to reach me:
-LinkedIn Profilelin:kedin.com/in/amromar
-Phone: +201121472535 
-Email: ao.ahmed@outlook.com
+##### LinkedIn Profilelin:kedin.com/in/amromar
+##### Phone: +201121472535 
+##### Email: ao.ahmed@outlook.com
 
 
 <!---
